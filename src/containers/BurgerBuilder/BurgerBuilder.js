@@ -86,7 +86,7 @@ class BurgerBuilder extends Component {
     }
 
     purchaseContinuedHandler = () => {
-        alert("You continued!")
+        alert("Oops, App under process of development!")
     }
 render() {
 
